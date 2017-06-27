@@ -1,0 +1,19 @@
+{
+  "name": "rest-api-typescript",
+  "version": "1.0.0",
+  "description": "Provides a reusable skeleton for building a Node.js application written in TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uncoolster/node-typescript-starter.git"
+  },
+  "author": "Charles Otieno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uncoolster/node-typescript-starter/issues"
+  },
+  "homepage": "https://github.com/uncoolster/node-typescript-starter#readme"
+}
