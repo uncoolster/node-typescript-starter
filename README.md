@@ -1,7 +1,8 @@
-# Node.js app with TypeScript Starter
+# Skeleton for Node.js applications written in TypeScript
+
 Provides a reusable skeleton for building a Node.js application written in TypeScript.
 
-## Development
+### Development
 ```
 npm run dev
 ```
@@ -16,7 +17,7 @@ npm test
 npm run lint
 ```
 
-### Building a Docker containter
+### Building a Docker container
 ```
 docker build .
 ```
