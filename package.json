@@ -1,5 +1,5 @@
 {
-  "name": "uncoolster/est-api-typescript",
+  "name": "@uncoolster/est-api-typescript",
   "version": "1.0.0",
   "description": "Provides a reusable skeleton for building a Node.js application written in TypeScript.",
   "main": "index.js",
